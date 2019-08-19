@@ -10,3 +10,49 @@ A. I would like to work for a bigger company with more opportunities for growth.
 
 Q. why should we hire you
 A. “Honestly, I possess all the skills and experience that you’re looking for. I’m pretty confident that I am the best candidate for this job role.
+
+
+=======================
+
+What is the difference between HTML and HTML5?
+
+there are major differences between html and html5
+
+HTML5 supports both audio and video but html does not supports audio and video
+
+HTML does not allow JavaScript to run within the web browser but HTML5 provides full support for JavaScript to run in the background.
+
+HTML5 supports new kinds of form controls, for example: dates and times, email, number, range, tel, url, search etc.
+
+=====================================================================================
+
+CSS VS CSS3
+
+In CSS3, we have new properties like border radius, box shadow, text shadow, multiple background images, gradient , animations, transition, transform etc.
+
+CSS3 supports responsive design, and can also handle media queries, whereas both the features are not supported in CSS.
+
+CSS3 is much more faster then all of its previous versions.
+
+New colors, including support for RGBA, HSLA, HSL and gradient colors, were added in CSS3.
+
+=====================================================================================
+
+How to embed CSS in HTML
+
+There are 3 ways you could embed CSS into HTML.
+
+Internal CSS	:	An internal CSS is used to define a style for a single HTML page.
+Inline CSS		:	An inline CSS uses the style attribute of an HTML element.
+External CSS	:	That is usually link the CSS to the HTML file.
+					<link rel="stylesheet" href="styles.css">
+					
+=====================================================================================
+
+Q. What is bootstrap?
+
+Bootstrap is a free and open-source HTML, CSS, and JS framework for developing responsive and mobile-first websites.
+
+=====================================================================================
+
+
